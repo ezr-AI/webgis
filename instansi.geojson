@@ -1,0 +1,3931 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Surveyor Indonesia Cab.Semarang "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4352786,
+          -7.0003005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Bhima Mitra Prima "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5223089,
+          -5.0775545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Surveyor Indonesia Cab. Makasar "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.417217,
+          -5.1734449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Suropati Hidro Energi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6248437,
+          -6.8860893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Ansaf Inti Resources"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8276779,
+          -6.230976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Keluarga Surta Mandiri (PT Kesuma)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7727498,
+          -6.288962300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Putera Kontrindo Abadi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7181212,
+          -2.9325448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Mega Citra Utama "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8573054,
+          -6.3030985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Aspal Polimer Emulsindo "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6553823,
+          -6.887047600000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Sigma Cipta Utama "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809523,
+          -6.289798999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. Cahaya Riau Mandiri Site GGB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7885529,
+          -6.126617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Sulsel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4099971,
+          -5.1719841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Anugerah Bangun Makmur "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.8769223,
+          -0.9247104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Cahaya Riau Mandiri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7885529,
+          -6.126617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Kinasa Gita Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8614475,
+          -6.3991775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Exact Global Teknologi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.616253,
+          -6.922168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Smart Tech Solution Intrnasional "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1382586,
+          -6.357739100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Sejahtera Utama Permata "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7912158,
+          -6.2420353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "KJSB ATHIF MUHAIMIN & REKAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1567619,
+          -8.352158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV Garis Inti Banua "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5766372,
+          -3.3079827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Surveyor Indonesia Cab.Makassar "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.417217,
+          -5.1734449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Gula Putih Mataram "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4200018,
+          -4.5622807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Cakrawala Pilar Nusantara "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6782589,
+          -6.919643600000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "WK - BK - BBP - KPR, KSO (Waskita)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9247125,
+          -6.2275002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Badan Standardisasi Instrumen Pertanian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8372853,
+          -6.2864228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Kinata Gita Indonesia "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8614475,
+          -6.3991775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Citra Mitra Sehati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3242613,
+          -3.8734456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Kompas Navigasi Indonesia "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.771123,
+          -6.2381702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Cahaya Riau Mandiri Site GGB "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7885529,
+          -6.126617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Vadhana "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4179421,
+          0.4741955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Bhumi Mandiri Wijaya "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.7781067,
+          -3.4484011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Berkat Sumber Rizki "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8505859,
+          -6.1497259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Nuansa Usaha Mandiri "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8095246,
+          -6.290709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. Vadhana International"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4179421,
+          0.4741955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT GBU "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8505446,
+          -6.2340434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT ASIMAS "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7016454,
+          -7.8526488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Petrokimia Gresik "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7869031,
+          -6.4245209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Cipta Abirama Sinergi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4653065,
+          -6.5685764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Halo Indah Permai (Robotic) "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.773405,
+          -6.273722800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Citra Mitra Sehati "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3242613,
+          -3.8734456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Master Pancang "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4433471,
+          -6.1988886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT.Berkat Cawan Energi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8047944,
+          -6.2257826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "KJSB "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6143855,
+          -6.9459903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "WK - BK - BBP - KPR, KSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1437171,
+          -6.5132378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT.Quancons Forensik Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7536617,
+          -0.9531701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Nata Bumi Mandiri "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5053311,
+          -6.1344376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "ASIMAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7016454,
+          -7.8526488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Cahaya Riau Mandiri "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7885529,
+          -6.126617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Pertamina EP Cepu "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5960956,
+          -7.1347089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Orca Global Synergy "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8209739,
+          -6.2303184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Surya Kertaagung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6994842,
+          -6.923972399999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT SBI "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8244863,
+          -6.1970567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Surabaya "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7520883,
+          -7.2574719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Balikpapan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8528526,
+          -1.2379274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Smart Tech Solution Internasional "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1382586,
+          -6.357739100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Masterpancang Pondasi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4433471,
+          -6.1988886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Bumi Suksesindo "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0479354,
+          -8.5843791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT BATULICIN BETON ASPHALT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.00212,
+          -3.3242178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Capella Global Inovasi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.66793109999999,
+          3.5924849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Geoswara Survey "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4671777,
+          -7.0302036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Laz Coal Mandiri "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2849029,
+          -3.8447353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Jhonlin Group "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0101875,
+          -3.4095625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Berkat Cawan Energi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8047944,
+          -6.2257826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Julong Indonesia "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8446583,
+          -6.1550299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Cumsen "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8936706,
+          -6.155559299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Kantor Pertanahan Kabupaten Tanatoraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8548611,
+          -3.0902509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Sejahtera Manunggal "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5879153,
+          -6.976668600000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Amani Properti Nusantara "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8211963,
+          -6.2130109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Solusi Energy Nusantara (SENA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7729869,
+          -6.1642689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Smart Tech Solution International "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1382586,
+          -6.357739100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. Pion Quarry Nusantara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5951143,
+          -6.4469039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Masmindo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8197975,
+          -6.2288827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Fajri "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8727437,
+          -6.4463323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Arutmin Indonesia "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.834338,
+          -6.2195071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Kementan_BSIP "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63473,
+          -6.8243186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Halo Robotic "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.773405,
+          -6.273722800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " CV. Anugerah Karya Pratama SMD "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6090104,
+          -6.9446172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " Dinas Perumahan Kota Baubau "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5792794,
+          -5.4826296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Macmahon Mining Services "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9119049,
+          -0.8795448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. DAYA MAS CISOLOK GEOTHERMAL (DMCG)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0478821,
+          -6.7465239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CCC-FHDI.,LTD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8184171,
+          -6.2171331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " WK - BK - BBP - KPR, KSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1437171,
+          -6.5132378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Indonav Teknologi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.758171,
+          -6.2118743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. Pertamina (Persero) "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6183366,
+          -6.9166075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Tridinamika "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6328942,
+          -6.2336277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Kusno Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8433786,
+          -6.2485804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Inti Innovaco "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8113011,
+          -6.6025174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Mitra Mineral Perkasa "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.787383,
+          -6.173698000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Soilens "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6402197,
+          -6.8982116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Vadhana International "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4179421,
+          0.4741955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Kepala BKD Kabupaten Boyolali "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6120402,
+          -7.546237899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Julong "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8446583,
+          -6.1550299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Kementan "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8222265,
+          -6.296979299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Balai Pelestarian Kebudayaan Ternate "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3170051,
+          0.7604848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Waskita Karya "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8739742,
+          -6.24553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Marga Bara Jaya "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7137816,
+          -2.0605473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Dahana Jakarta "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8558082,
+          -6.242750099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Sawit Permai Lestari "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7400462,
+          -6.1025782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT TAB "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0961523,
+          -6.331186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "GIM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.9226695,
+          -6.852034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.656961,
+          -6.9409925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Masterpancang Pondasi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4433471,
+          -6.1988886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPSIP Kementan "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8372853,
+          -6.2864228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Quscore.id "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8652777,
+          -6.200745299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT.KOMPAS NAVIGASI INDONESIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.771123,
+          -6.2381702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT Aub Sinergi Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7877449,
+          -6.115573899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Dexsa Utama Indonesia "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7541783,
+          -6.2671244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Agro Ternakindo Terpadujaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8269788,
+          -6.13514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT Sinar Mitra Tata Perkasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7148859,
+          -6.107732599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Gema Berdikari Ultima "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4022331,
+          -2.1673242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Jayapura "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6839602,
+          -2.5988062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Senseuni Labs Indonesia "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6291809,
+          -6.2100262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Asih Mandiri Sejahtera "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7258826,
+          -6.224931499999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV Bagja Niaga Teknik "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6391622,
+          -6.963763300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Sinar Mitra Tata Perkasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7148859,
+          -6.107732599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT Atlas Geosains Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.417934,
+          -7.130997199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Jaya Survei Indonesia "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8431242,
+          -6.2399124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Tanatoraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8548611,
+          -3.0902509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. Pemukasakti Manisindah Waykanan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8434674,
+          -4.3359726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Dinas Perumahan dan Kawasan Permukiman Kota Ternate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3810415,
+          0.7857055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " Aparat Pengawasan Intern Pemerintah Kabupaten Muna Sulawesi Tenggara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5476667,
+          -4.8456046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Kompas Navigasi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.771123,
+          -6.2381702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "OGS Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5738945,
+          -6.883883699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Konsultan Pengukuran "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607239,
+          -6.9098853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BNT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6135976,
+          -6.9145385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Geotronix Pratama Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7810577,
+          -6.3012156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT velo Arya "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8107367,
+          -6.2905744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Puncakbaru Jayatama "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8107081,
+          -6.2906607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Perseroan Komanditer Jaya Teknik Diesel "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7269706,
+          -6.155888099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Tanahtoraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8548611,
+          -3.0902509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Exact "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.616253,
+          -6.922168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "KJSB Ibnu Hajar Kahaerul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6143855,
+          -6.9459903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT Smart Tech Solution International"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1382586,
+          -6.357739100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "DEM Survey Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5841776,
+          -6.9681314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. PP (Persero) Tbk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935057,
+          -6.9135342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Karya Megah Agung "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6902075,
+          -6.111881899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BBSP KEBTKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7672173,
+          -6.238649199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Gorontalo Minerals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.0938871,
+          0.5469668999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT United Media"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8293686,
+          -6.1407685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PTSL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8961138,
+          -6.2347457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Surveyor Indonesia Cab.Medan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6319351,
+          3.5790553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV Bagja Niaga Teknik (BNT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6391622,
+          -6.963763300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Rajawali Emas Ancora Lestari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9249264,
+          0.4747740999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Bumi Persada Surya Pratama "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7894487,
+          -0.9844564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Pemukasakti Manisindah (PSMI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8434674,
+          -4.3359726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Alphacipta Computindo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8150409,
+          -6.177611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Hepta Kimpada Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.639591,
+          -6.894762999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Siara Survei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8573441,
+          -6.2409633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Sucofindo Cab. Makassar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4353866,
+          -5.136322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT PP Irigasi Sulawesi Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9247458,
+          -1.0444007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "DND Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5841776,
+          -6.9681314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "KJSB Athif Muhaimin & Rekanan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1567619,
+          -8.352158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Badan Pelaksana Otoritas Danau Toba "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.66661520000001,
+          3.5764116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8021112,
+          -6.592566499999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT Gaya Makmur Tractors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.729399,
+          -6.1704653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Gaya Makmur Tractors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.729399,
+          -6.1704653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Ketua Pelaksana Kegiatan SID Balai Besar Perakitan dan Modernisasi Sumber Daya Lahan Pertanian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7893339,
+          -6.5770846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Badan Pelaksana Otorita Danau Toba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.66661520000001,
+          3.5764116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Kanwil Kaltara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3754631,
+          2.8529911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Geomac Survey Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8299357,
+          -6.468380499999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "SP BPN Tabanan "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1196782,
+          -8.5369498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Bumi Sukses Indo "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0479354,
+          -8.5843791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Gisarutala Citra Perkasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0652081,
+          -6.2488395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Jaya Survey Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8439733,
+          -6.239935000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Julong Group Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8446583,
+          -6.1550299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Sonar Nusantara Utama "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7731773,
+          -6.2379716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT PP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935057,
+          -6.9135342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Depok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8281722,
+          -6.4235885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Jayapura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6839602,
+          -2.5988062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Arta Survey "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3094243,
+          -7.703287199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Respati Spasial Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7591839,
+          -6.4714468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT SBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8244863,
+          -6.1970567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Buana Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7443574,
+          -6.234680699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Universitas Padjajaran "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7746881,
+          -6.926132099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Waskita Karya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8739742,
+          -6.24553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " KJSB ANGKOSO DEWANTORO DAN REKAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8299907,
+          -6.4684202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Pemerintah Kota Banjarbaru Dinas Pekerjaan Umum Dan Penataan Ruang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8268066,
+          -3.4669739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " Kantor Pertanahan Kab. Malang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6162407,
+          -7.9736487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " Dem survey indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5841776,
+          -6.9681314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Pengerukan Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8623924,
+          -6.116095899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT OSSMAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6306037,
+          -6.9578179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Surveyor Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8324673,
+          -6.2393357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Indonav "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.758171,
+          -6.2118743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Sonar Nusantara Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7731773,
+          -6.2379716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Bendungan Mbay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2803925,
+          -8.697397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV. Kota Baga Engineering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5423792,
+          -6.887695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " Perusahaan Swasta Sambu Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8513687,
+          -6.1249293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "KJSB Athif Muhaimin "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1567619,
+          -8.352158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Dinas Perumahan Kawasan Permukiman dan Pertanahan Kabupaten Pandeglang "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0993651,
+          -6.3072235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Berau Mapper "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.5254256,
+          2.153712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "DND Survey "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5841776,
+          -6.9681314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Masmindo Dwi Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3576644,
+          -3.3761721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Darma Henwa "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8343046,
+          -6.2195155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Jaga Aman Sejahtera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7914871,
+          -6.1763647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Ultima Teknologi Maritim "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9520948,
+          -6.309107099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Kompas Navigasi Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.771123,
+          -6.2381702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Dinas Bina Marga & SDA Kab. Tangerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4840443,
+          -6.272825399999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV. Naratama Usaha Abadi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5679018,
+          -6.934065899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Smart Tech Solution International"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1382586,
+          -6.357739100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Waskita "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8739742,
+          -6.24553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV Safari Alam Teknik "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.719751,
+          -7.313340299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Emintech "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7818438,
+          -6.2629522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Madiun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5220934,
+          -7.653064499999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT PP Presisi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9791201,
+          -6.353470199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Nindya Karya "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8656833,
+          -6.2440571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Aslita Cakrawala Teknologi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7997191,
+          -6.140533899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV Manna Mitra Engineering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6117638,
+          -7.956345099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Buana Survey "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7443574,
+          -6.234680699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Presisi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9791201,
+          -6.353470199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Dese Sebulu Ilir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0067712,
+          -0.2633752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Satya Wijaya Brama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.435571,
+          0.535113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PPK Pemutakhiran Data Potensi EBT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8410406,
+          -6.1976434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV Albino Borneo Grup _ Indonav "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.2741206,
+          -0.0042641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Bhumi Mandiri Wijaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.7781067,
+          -3.4484011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Agro Sukses Lestari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.6317217,
+          0.1764529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Velo Arya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8107367,
+          -6.2905744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT Nariski Cahaya Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6341853,
+          -7.377322899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV Dia Tech "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5619139,
+          -6.9017691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Acset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8210515,
+          -6.169690399999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Smart Tech Solution "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1382586,
+          -6.357739100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Plaza GPS "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.655193,
+          -6.266251899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV. Gladiol Nusatama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6344205,
+          -7.9260547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT GIM Group Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.450505,
+          -7.002808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " CV Safari Alam Teknik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.719751,
+          -7.313340299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Lajuperdana Indah (LPI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8227207,
+          -6.2051545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. Sucofindo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5852146,
+          -6.943158899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Ardhi Bestari Sukses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8934211,
+          -6.1597684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Bumantara Karya Amarta "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9503258,
+          -6.251502899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Dinas pertanian dan Ketahanan pangan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5892363,
+          -6.912169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Kendal "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.1859294,
+          -6.930435699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Halo Robotics "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.773405,
+          -6.273722800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Jaya Survey Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8439733,
+          -6.239935000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. Geo Investama Mandiri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.397964,
+          -7.8098003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "\"Pekerjaan Uji Coba Sensor (Low Budget High Impact) untuk Petani\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6517246,
+          -6.901035299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Mitra Mineral Perkasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.787383,
+          -6.173698000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Kepala Balai Pengujian Standar Instrumen Pertanian Agroklimat dan Hidrologi Pertanian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.787743,
+          -6.5795492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Asean Teknologi Macindo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76081,
+          -7.2968031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Smart Tech Solution Internasional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1382586,
+          -6.357739100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "KJSKB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6143855,
+          -6.9459903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. DEIRA SYGISINDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7597291,
+          -6.2966697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Global Survey "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7618328,
+          -6.197361799999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Purbalingga "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.3517669,
+          -7.387953800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Rayya Komudata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9134012,
+          -6.2780292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " Loka Kawasan Konservasi Perairan Nasional Pekanbaru (LKKPN) Pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5266642,
+          0.4822054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV DSM "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9485708,
+          -6.2085531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Subur Jaya Mukti "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.164334,
+          -7.2616348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Magetan "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.3259826,
+          -7.657832699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV Artha Duta "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5807025,
+          -6.8968108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Gunungkidul, Yogya "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5940191,
+          -7.9399165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Gemilang Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6950276,
+          -6.231429599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Deira Sygisindo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7597291,
+          -6.2966697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Kepala Balai Pengujian Standar Instrumen Pertanian Agroklimat dan Hidrologi Pertanian "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.787743,
+          -6.5795492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. YEKADA MULTI ENERGI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8547593,
+          -6.1478147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Ristek Manajemen Konsultan "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8420538,
+          -6.290695599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT. Sawit Nabati Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.85785369999999,
+          4.5084889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT Masterpancang Pondasi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4433471,
+          -6.1988886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT Prisma Karya Utama "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6624832,
+          -6.9205299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Merak Jaya Beton "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.502936,
+          -6.9066753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BPN Samarinda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1403,
+          -0.4463288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT GIM Yogya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3539505,
+          -7.813462599999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Selco Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8762476,
+          -1.2237899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "KJSB Nanang Setiwan Laksono "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.709949,
+          -8.047944300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Denaya Loka Konsultindo "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6933402,
+          -6.2993747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Momentum "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7917738,
+          -6.176690499999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT.IPP an. ANG Grup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6999318,
+          -6.937211199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Keluarga Surta Mandiri (KESUMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7727498,
+          -6.288962300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Yekada Multi Energi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8547593,
+          -6.1478147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT PLN ULTG Mampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8214798,
+          -6.235506699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV Geomap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8501912,
+          -6.4472349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT PLN UTG Mapang "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6120455,
+          -6.9505088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PPK OP SDA 1 BBWS Serayu Opak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4083925,
+          -7.7828819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Buana Megawisatama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.963468,
+          1.1027077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Buana Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7443574,
+          -6.234680699999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Sucofindo "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5852146,
+          -6.943158899999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Waskita Karya Tbk "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8739742,
+          -6.24553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Exact Global Teknologi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.616253,
+          -6.922168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT GIM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.450505,
+          -7.002808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Seascape Surveys Indonesiasea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8105227,
+          -6.2903025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT ARTHA SURVEY TECHNOLOGY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3094243,
+          -7.703287199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "ASABA "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8290962,
+          -6.1676101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT PP Cab.Medan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.66895480000001,
+          3.6026917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Asih Mandiri Sejahtera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7258826,
+          -6.224931499999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT Geomac Survey Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8299357,
+          -6.468380499999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Carsurin Tbk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7900654,
+          -6.1747774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Rekanusa Pracipta Konsultindo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7269931,
+          -7.232750900000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT LAZ COAL MINING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2849029,
+          -3.8447353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT. CAHAYA RIAU MANDIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7885529,
+          -6.126617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": " PT. Indo Sejahtera Manunggal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0173278,
+          -0.5781913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "BRIN Cibinong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8443018,
+          -6.500863499999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "ATR BPN Kepulauan Riau "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4614133,
+          0.9201416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Labota Bahodopi Sorajai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.166667,
+          -2.866667000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "CV. Mandiri GeoTools"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604672,
+          -6.8384262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Cakrawala "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6967662,
+          -6.1478641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PTSI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8324673,
+          -6.2393357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "HMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6200169,
+          -6.9082458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Sumber Mitra Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8319643,
+          -6.23366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Asaba "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6107517,
+          -6.9072824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "PT Suropati Hidro Energi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6248437,
+          -6.8860893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Kantor Pertanahan Kab. Malang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6162407,
+          -7.9736487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "Geometri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6361237,
+          -6.9378891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "KAI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062634,
+          -6.9139493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "instansi": "D&D Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5841776,
+          -6.9681314
+        ]
+      }
+    }
+  ]
+}

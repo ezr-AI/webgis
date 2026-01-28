@@ -3,7 +3,6 @@ import {
   MapContainer,
   TileLayer,
   useMap,
-  GeoJSON,
   Marker,
   Popup,
 } from "react-leaflet";
@@ -11,15 +10,12 @@ import "leaflet/dist/leaflet.css";
 import "./App.css";
 import { useEffect, useState } from "react";
 import output from "./assets/output.json";
-import L from "leaflet";
-import KmlUploader from "../component/KmlUploader";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import "leaflet.markercluster/dist/MarkerCluster.css";
 import "leaflet.markercluster/dist/MarkerCluster.Default.css";
+import SearchLocation from "../component/SearchLocation";
 
 export default function App() {
-  const [kmlData, setKmlData] = useState(null);
-
   function DisplayPosition() {
     const map = useMap();
     const [position, setPosition] = useState(map.getCenter());
@@ -42,32 +38,17 @@ export default function App() {
     );
   }
 
-  const data = output.map((item) => {
-    let lat = null;
-    let lng = null;
-
-    const geo = item["koordinat"];
-    if (geo) {
-      const [latStr, lngStr] = geo.split(",");
-      lat = Number(latStr);
-      lng = Number(lngStr);
-
-      return {
-        instansi: item["instansi"],
-        lat,
-        lng,
-      };
-    }
-  });
+  const total = output.map((item) =>
+    item.data.reduce((sum, d) => sum + (Number(d.NILAI) || 0), 0),
+  );
 
   return (
     <div className="parent">
-      {/* logo nusatracks */}
-      {/* <img
-        className="logo_nusatrack"
+      <img
         src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100048608930478&f=1&nofb=1&ipt=c4a441410ff90309c7a2354e5a35c5431846f53483bad6df7082e8b6a840f019"
         alt="logonusa"
-      /> */}
+        className="logo-nusatrack"
+      />
       <MapContainer
         center={[-6.5531206049425395, 106.77974654029336]}
         zoom={17}
@@ -87,28 +68,73 @@ export default function App() {
             />
           </LayersControl.BaseLayer>
         </LayersControl>
-        <DisplayPosition />
-        {kmlData && (
-          <GeoJSON
-            data={kmlData}
-            pointToLayer={(feature, latlng) => L.marker(latlng)}
-            onEachFeature={(feature, layer) => {
-              if (feature.properties?.name) {
-                layer.bindPopup(feature.properties.name);
-              }
-            }}
-          />
-        )}
+        <SearchLocation />
         <MarkerClusterGroup chunkedLoading>
-          {data.map(
+          {output.map(
             (item, idx) =>
               item && (
                 <Marker key={idx} position={[item.lat, item.lng]}>
-                  <Popup>{item.instansi}</Popup>
+                  <Popup>
+                    <p>Instansi: {item.instansi[0]}</p>
+                    <p>Pembelian: </p>
+                    <ul>
+                      {item.data.map((data, idx) => (
+                        <li className="table-info" key={idx}>
+                          <span>{data["TANGGAL PENAWARAN"]} </span>
+                          <span>{data.PEMBELIAN}</span>
+                        </li>
+                      ))}
+                    </ul>
+                    {(() => {
+                      const namaPIC = [
+                        ...new Set(
+                          item.data
+                            .map((d) => d["NAMA PIC"]?.trim())
+                            .filter(Boolean),
+                        ),
+                      ];
+
+                      return (
+                        namaPIC.length > 0 && (
+                          <p>Nama PIC: {namaPIC.join(", ")}</p>
+                        )
+                      );
+                    })()}
+
+                    {(() => {
+                      const owner = [
+                        ...new Set(
+                          item.data
+                            .map((d) => d["OWNER.1"]?.trim())
+                            .filter(Boolean),
+                        ),
+                      ];
+
+                      return <p>Owner: {owner.join(", ")}</p>;
+                    })()}
+
+                    {(() => {
+                      const kategori = [
+                        ...new Set(
+                          item.data
+                            .map((d) => d.KATEGORI?.trim())
+                            .filter(Boolean),
+                        ),
+                      ];
+
+                      return kategori && <p>Kategori: {kategori}</p>;
+                    })()}
+
+                    <p>
+                      Total Nilai:{" "}
+                      {(total[idx] / 1_000_000).toLocaleString("id-ID")} juta
+                    </p>
+                  </Popup>
                 </Marker>
               ),
           )}
         </MarkerClusterGroup>
+        <DisplayPosition />
       </MapContainer>
     </div>
   );

@@ -48,9 +48,8 @@ export default function SearchLocation() {
       return;
     }
 
-    const res = await fetch(
-      `http://localhost:3001/search?q=${encodeURIComponent(q)}`,
-    );
+    const res = await fetch(`/api/search?q=${encodeURIComponent(q)}`);
+
     const data = await res.json();
     setResults(data.results || []);
   };

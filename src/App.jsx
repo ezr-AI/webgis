@@ -14,6 +14,7 @@ import MarkerClusterGroup from "react-leaflet-cluster";
 import "leaflet.markercluster/dist/MarkerCluster.css";
 import "leaflet.markercluster/dist/MarkerCluster.Default.css";
 import SearchLocation from "../component/SearchLocation";
+import nusatrackLogo from "./assets/nusatracks.png";
 
 import L from "leaflet";
 
@@ -55,11 +56,7 @@ export default function App() {
 
   return (
     <div className="parent">
-      <img
-        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100048608930478&f=1&nofb=1&ipt=c4a441410ff90309c7a2354e5a35c5431846f53483bad6df7082e8b6a840f019"
-        alt="logonusa"
-        className="logo-nusatrack"
-      />
+      <img src={nusatrackLogo} className="logo-nusatrack" />
       <MapContainer
         center={[-6.5531206049425395, 106.77974654029336]}
         zoom={17}

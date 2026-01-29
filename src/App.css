@@ -88,3 +88,9 @@
   display: flex;
   gap: 5px;
 }
+
+/* analisis */
+.analisis {
+  position: absolute;
+  z-index: 1000;
+}

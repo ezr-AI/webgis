@@ -5,6 +5,7 @@ import {
   useMap,
   Marker,
   Popup,
+  GeoJSON,
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import "./App.css";
@@ -17,6 +18,7 @@ import SearchLocation from "../component/SearchLocation";
 import nusatrackLogo from "./assets/nusatracks.png";
 
 import L from "leaflet";
+import Analisis from "../component/Analisis";
 
 delete L.Icon.Default.prototype._getIconUrl;
 
@@ -28,6 +30,13 @@ L.Icon.Default.mergeOptions({
 });
 
 export default function App() {
+  const [indonesia, setIndonesia] = useState(null);
+
+  useEffect(() => {
+    fetch("/indonesia.json")
+      .then((res) => res.json())
+      .then((data) => setIndonesia(data));
+  }, []);
   function DisplayPosition() {
     const map = useMap();
     const [position, setPosition] = useState(map.getCenter());
@@ -57,10 +66,46 @@ export default function App() {
   return (
     <div className="parent">
       <img src={nusatrackLogo} className="logo-nusatrack" />
+      <Analisis />
       <MapContainer
         center={[-6.5531206049425395, 106.77974654029336]}
         zoom={17}
       >
+        {indonesia && (
+          <GeoJSON
+            data={indonesia}
+            style={{
+              color: "#2c3e50",
+              weight: 1,
+              fillColor: "#3498db",
+              fillOpacity: 0.15,
+            }}
+            onEachFeature={(feature, layer) => {
+              const name =
+                feature.properties?.NAME_1 ||
+                feature.properties?.name ||
+                "Tanpa nama";
+
+              layer.bindPopup(`<b>${name}</b>`);
+
+              layer.on({
+                mouseover: (e) => {
+                  e.target.setStyle({
+                    weight: 2,
+                    fillOpacity: 0.35,
+                  });
+                },
+                mouseout: (e) => {
+                  e.target.setStyle({
+                    weight: 1,
+                    fillOpacity: 0.15,
+                  });
+                },
+              });
+            }}
+          />
+        )}
+
         <LayersControl position="topright">
           <LayersControl.BaseLayer name="streetmap" checked>
             <TileLayer

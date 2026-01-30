@@ -92,5 +92,21 @@
 /* analisis */
 .analisis {
   position: absolute;
-  z-index: 1000;
+  z-index: 1001;
+  overflow: scroll;
+  height: 600px;
+  top: 80px;
+  overflow-x: hidden;
+}
+
+/* burgir menu */
+.burgir {
+  position: absolute;
+  top: 80px;
+  z-index: 2000;
+
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
 }
